@@ -1,1 +1,3 @@
-# book-search-engine
+# Book Search Engine Starter Code
+
+For this project I attempted to apply the APollo Server and use Graphql queries and mutations. I applied the express.js server as the middleware. I crated typedefs for the project. I then deployed to heroku. 
