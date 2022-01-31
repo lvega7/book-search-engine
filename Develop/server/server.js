@@ -16,7 +16,7 @@ const server = new ApolloServer({
 });
 
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/redux_store', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/search_engine', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
